@@ -1,0 +1,13 @@
+prefix=K:/Katalysys/AI chatbot/chatbot/venv/Library
+exec_prefix=K:/Katalysys/AI chatbot/chatbot/venv/Library
+libdir=K:/Katalysys/AI chatbot/chatbot/venv/Library/lib
+sharedlibdir=K:/Katalysys/AI chatbot/chatbot/venv/Library/lib
+includedir=K:/Katalysys/AI chatbot/chatbot/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

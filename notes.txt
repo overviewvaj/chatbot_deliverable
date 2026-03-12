@@ -1,0 +1,7 @@
+virtual environment is myenv 
+
+LANGCHAIN_API_KEY=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
+OPENAI_API_KEY=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
+
+
+LANGCHAIN_PROJECT =Trial
